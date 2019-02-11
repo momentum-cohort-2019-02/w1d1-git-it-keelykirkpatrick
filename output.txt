@@ -1,1 +1,13 @@
-
+✔ ~/Momentum/week1 [master L|✚ 4…2]
+13:19 $ brew --version
+Homebrew 2.0.1
+Homebrew/homebrew-core (git revision 9aca4; last commit 2019-02-11)
+Homebrew/homebrew-cask (git revision c407cc; last commit 2019-02-11)
+✔ ~/Momentum/week1 [master L|✚ 4…2]
+13:20 $ python3 --version
+Python 3.7.2
+✔ ~/Momentum/week1 [master L|✚ 4…2]
+13:20 $ pipenv --version
+pipenv, version 2018.11.26
+✔ ~/Momentum/week1 [master L|✚ 4…2]
+13:20 $
